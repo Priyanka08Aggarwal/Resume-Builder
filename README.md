@@ -2,4 +2,4 @@
 
 |SrNo.|Project Name| Live Link|
 |:---:|:---:|:---:|
-|01|Product Filter|[Live Link](https://pa-resume-builder.netlify.app/)|
+|01|Resume Builder|[Live Link](https://pa-resume-builder.netlify.app/)|
